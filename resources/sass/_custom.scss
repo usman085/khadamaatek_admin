@@ -1,0 +1,54 @@
+// Here you can add other styles
+
+.c-header.c-header-fixed {
+    top: 0px;
+}
+
+.click-file {
+    cursor: pointer;
+}
+
+.select2-container {
+    display: block;
+    width: 100%;
+}
+
+.select2-container .select2-selection--single {
+    height: calc(1.5em + 0.75rem + 2px);
+    color: #768192;
+}
+
+.select2-container--default
+    .select2-selection--single
+    .select2-selection__arrow {
+    height: calc(1.5em + 0.75rem);
+}
+
+.select2-container--default
+    .select2-selection--single
+    .select2-selection__rendered {
+    color: #768192;
+    line-height: 34px;
+}
+
+.main-breadcrump .breadcrumb {
+    margin: 0;
+    border: 0;
+}
+
+.c-sidebar-brand-full {
+    height: 30px;
+    align-self: center;
+    justify-self: center;
+}
+
+.c-sidebar-brand-minimized {
+    height: 36px;
+    align-self: center;
+    justify-self: center;
+}
+
+.dataTables_wrapper {
+    overflow-x: auto;
+    padding-bottom: 2.5rem;
+}
